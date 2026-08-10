@@ -19,8 +19,12 @@
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
+<<<<<<< HEAD
     "eslint-plugin-vue": "^8.0.3",
     "gh-pages": "^6.3.0"
+=======
+    "eslint-plugin-vue": "^8.0.3"
+>>>>>>> 6e06f280162ba9488d753c0910d8c8e1f5d3dc26
   },
   "eslintConfig": {
     "root": true,
