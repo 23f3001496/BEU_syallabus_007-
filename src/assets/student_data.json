@@ -1,0 +1,64 @@
+{
+  "branches": {
+  "CSE": {
+    "1": ["Mathematics I", "Physics", "Chemistry", "Basic Electrical Engineering", "Engineering Drawing", "Computer Fundamentals"],
+    "2": ["Mathematics II", "Data Structures", "Digital Logic", "Discrete Mathematics", "Object Oriented Programming", "Environmental Science"],
+    "3": ["Mathematics III", "Database Management", "Computer Networks", "Operating Systems", "Software Engineering", "Theory of Computation"],
+    "4": ["Design and Analysis of Algorithms", "Computer Architecture", "Web Development", "Machine Learning", "Cloud Computing", "Cyber Security"],
+    "5": ["Artificial Intelligence", "Data Science", "Blockchain", "IoT", "Mobile Computing", "Big Data Analytics"],
+    "6": ["Computer Graphics", "Natural Language Processing", "Deep Learning", "Robotics", "Quantum Computing", "Bioinformatics"],
+    "7": ["Project Work I", "Elective I", "Elective II", "Advanced Algorithms", "Compiler Design", "Digital Image Processing"],
+    "8": ["Project Work II", "Elective III", "Elective IV", "Industry Training", "Seminar", "Technical Writing"]
+  },
+  "Mechanical": {
+    "1": ["Mathematics I", "Physics", "Chemistry", "Engineering Mechanics", "Engineering Drawing", "Workshop Technology"],
+    "2": ["Mathematics II", "Thermodynamics", "Materials Science", "Fluid Mechanics", "Manufacturing Process", "Machine Drawing"],
+    "3": ["Mathematics III", "Strength of Materials", "Theory of Machines", "Heat Transfer", "Production Technology", "Metallurgy"],
+    "4": ["Fluid Machinery", "Design of Machine Elements", "Thermal Engineering", "Refrigeration & AC", "CAD/CAM", "Industrial Engineering"],
+    "5": ["Power Plant Engineering", "HVAC Systems", "Automobile Engineering", "Robotics", "Mechatronics", "Tribology"],
+    "6": ["Advanced Manufacturing", "Energy Engineering", "Materials Engineering", "Vibration Analysis", "Computational Fluid Dynamics", "Composite Materials"],
+    "7": ["Project Work I", "Elective I", "Elective II", "Automation", "Quality Control", "Supply Chain"],
+    "8": ["Project Work II", "Elective III", "Elective IV", "Industry Training", "Seminar", "Technical Writing"]
+  },
+  "Electrical": {
+    "1": ["Mathematics I", "Physics", "Chemistry", "Basic Electrical Engineering", "Engineering Drawing", "Computer Fundamentals"],
+    "2": ["Mathematics II", "Circuit Theory", "Electromagnetic Fields", "Digital Electronics", "Electrical Machines I", "Network Analysis"],
+    "3": ["Mathematics III", "Power Systems I", "Control Systems", "Analog Electronics", "Electrical Machines II", "Signals & Systems"],
+    "4": ["Power Systems II", "Electric Drives", "Microprocessors", "Power Electronics", "Renewable Energy", "Instrumentation"],
+    "5": ["Advanced Power Systems", "Smart Grid", "High Voltage Engineering", "Electric Vehicles", "Power Quality", "Energy Auditing"],
+    "6": ["Protection Systems", "FACTS Devices", "Distribution Systems", "SCADA Systems", "Electrical Safety", "Power System Analysis"],
+    "7": ["Project Work I", "Elective I", "Elective II", "Automation", "Power Management", "Electrical Design"],
+    "8": ["Project Work II", "Elective III", "Elective IV", "Industry Training", "Seminar", "Technical Writing"]
+  },
+  "Civil": {
+    "1": ["Mathematics I", "Physics", "Chemistry", "Engineering Mechanics", "Engineering Drawing", "Building Materials"],
+    "2": ["Mathematics II", "Surveying", "Structural Mechanics", "Geology", "Building Construction", "Transportation Engineering"],
+    "3": ["Mathematics III", "Structural Analysis", "Geotechnical Engineering", "Fluid Mechanics", "Environmental Engineering", "Architecture"],
+    "4": ["Design of Structures", "Foundation Engineering", "Water Resources", "Highway Engineering", "Construction Management", "Hydrology"],
+    "5": ["Advanced Structural Design", "Earthquake Engineering", "Urban Planning", "Environmental Impact", "Bridge Engineering", "Tunnel Engineering"],
+    "6": ["Prestressed Concrete", "Coastal Engineering", "Green Building", "Smart Cities", "Construction Technology", "Project Planning"],
+    "7": ["Project Work I", "Elective I", "Elective II", "Quantity Surveying", "Construction Safety", "Building Services"],
+    "8": ["Project Work II", "Elective III", "Elective IV", "Industry Training", "Seminar", "Technical Writing"]
+  },
+  "Chemical": {
+    "1": ["Mathematics I", "Physics", "Chemistry", "Chemical Process Principles", "Engineering Drawing", "Computer Fundamentals"],
+    "2": ["Mathematics II", "Physical Chemistry", "Organic Chemistry", "Fluid Mechanics", "Heat Transfer", "Material Science"],
+    "3": ["Mathematics III", "Chemical Thermodynamics", "Mass Transfer", "Chemical Kinetics", "Process Calculations", "Inorganic Chemistry"],
+    "4": ["Chemical Engineering Design", "Reaction Engineering", "Transport Phenomena", "Process Control", "Environmental Chemistry", "Biochemical Engineering"],
+    "5": ["Petroleum Refining", "Polymer Technology", "Pharmaceutical Engineering", "Waste Management", "Safety Engineering", "Industrial Chemistry"],
+    "6": ["Advanced Process Design", "Energy Engineering", "Nanotechnology", "Bioengineering", "Separation Processes", "Water Treatment"],
+    "7": ["Project Work I", "Elective I", "Elective II", "Plant Design", "Process Simulation", "Quality Management"],
+    "8": ["Project Work II", "Elective III", "Elective IV", "Industry Training", "Seminar", "Technical Writing"]
+  },
+  "Data Science": {
+    "1": ["Mathematics I", "Physics", "Chemistry", "Programming Fundamentals", "Data Structures", "Computer Organization"],
+    "2": ["Mathematics II", "Database Systems", "Python Programming", "Statistics", "Data Visualization", "Web Technologies"],
+    "3": ["Mathematics III", "Machine Learning I", "Data Mining", "Big Data Technologies", "Cloud Computing", "R Programming"],
+    "4": ["Deep Learning", "Natural Language Processing", "Data Warehousing", "Business Intelligence", "Computer Vision", "Time Series Analysis"],
+    "5": ["Reinforcement Learning", "Genomic Data Analysis", "Social Network Analysis", "Recommender Systems", "AI Ethics", "Healthcare Analytics"],
+    "6": ["Quantum Computing", "Edge Computing", "Federated Learning", "Data Engineering", "Optimization Techniques", "Pattern Recognition"],
+    "7": ["Project Work I", "Elective I", "Elective II", "Data Governance", "Data Security", "Advanced Analytics"],
+    "8": ["Project Work II", "Elective III", "Elective IV", "Industry Training", "Seminar", "Technical Writing"]
+  }
+}
+}
